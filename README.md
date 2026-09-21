@@ -1,4 +1,4 @@
-# LYT0830-dku
+# Lunyu Zhao
 
 I work on resource-efficient and trustworthy language-model systems, with a
 focus on on-device learning, federated LLM fine-tuning, preference
